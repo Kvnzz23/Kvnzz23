@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Kevin Herlambang<br>Software Engineering Student | Full-Stack Web Enthusiast<br><br>🚀 Currently focusing on modern web development & database design.<br>💡 Interested in software architecture, full-stack frameworks.<br>🛠️ Tech Stack: JavaScript, Dart, React, Flutter, MySQL, Tailwind CSS, Git.<br><br>📫 How to reach me: kevinherlambang03@gmail.com
+👨‍💻 Kevin Herlambang<br>Software Engineering Student | Full-Stack Web Enthusiast<br><br>🚀 Currently focusing on modern web & mobile development & database design.<br>💡 Interested in software architecture, full-stack frameworks.<br>🛠️ Tech Stack: JavaScript, Dart, React, Flutter, MySQL, Tailwind CSS, Git.<br><br>📫 How to reach me: kevinherlambang03@gmail.com
 
 
 ## 🌐 Socials:
